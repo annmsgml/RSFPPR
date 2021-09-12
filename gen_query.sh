@@ -1,0 +1,1 @@
+./RSFPPR -d orkut -algo GEN_QUERY -n 10000
